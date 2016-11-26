@@ -3,7 +3,7 @@
 
 Name:		libbinio
 Version:	1.4
-Release:	17%{?dist}
+Release:	18%{?dist}
 Summary:	A software library for binary I/O classes in C++
 URL:		http://libbinio.sourceforge.net/
 Group:		System Environment/Libraries
@@ -83,6 +83,9 @@ fi
 %{_infodir}/*.gz
 
 %changelog
+* Sat Nov 26 2016 Ricardo Arguello <rarguello@deskosproject.org> - 1.4-18
+- Rebuilt for DeskOS
+
 * Sat Aug 03 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.4-17
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_20_Mass_Rebuild
 

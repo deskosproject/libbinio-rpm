@@ -1,0 +1,6 @@
+= DeskOS: libbinio RPM
+
+This is the _libbinio_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/libbinio-1.4-17.el7.nux.src.rpm[libbinio-1.4-17.el7.nux.src.rpm]
